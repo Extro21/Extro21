@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height="30" width="30">
+<a href="https://t.me/extro21">
+<img src="https://github.com/Extro21/Extro21/blob/main/telegtam_image.png" width="30" height="30"></a>
 <a href="https://discord.gg/Y2RYzQwX" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Y2RYzQwX" height="32" width="42" /></a>
 </p>
 
